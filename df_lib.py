@@ -20,7 +20,7 @@ from sklearn.neural_network import MLPClassifier
 from sklearn.metrics import plot_confusion_matrix
 from sklearn.metrics import confusion_matrix
 import scipy.stats
-from scipy.stats import sem, t
+from scipy.stats import sem,t
 from scipy import mean
 from math import log10, floor
 import math 
